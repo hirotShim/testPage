@@ -1,2 +1,2 @@
 こんにちは
-!default.jpg
+![猫の画像]./default.jpg
